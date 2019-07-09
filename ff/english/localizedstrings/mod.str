@@ -1,0 +1,12 @@
+// eXtreme+ mod string file
+
+REFERENCE           MESSAGE_NAME
+LANG_ENGLISH        "Powered by ^3{LFNY} ^2COD 2 ^3Extreme^2/^1RSM ^2Mod"
+
+REFERENCE           MESSAGE_BY
+LANG_ENGLISH        "For more information..."
+
+REFERENCE           MESSAGE_WEBSITE
+LANG_ENGLISH        "Visit ^1www.mycallofduty.com"
+
+ENDMARKER

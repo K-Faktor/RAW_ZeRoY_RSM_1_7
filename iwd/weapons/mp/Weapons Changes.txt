@@ -1,0 +1,15 @@
+Weapons Set up Changes
+
+
+M16A4 ==> M1 Garand
+AK47 ==> Karabiner 98
+M4 ==> Enfield
+G3 ==> Gewehr 43
+G36C ==> SVT40
+M14 ==> Mosin Bolt
+
+mp5 ==> M1903 Springfield
+skorpion==> Karabiner 98 Scoped
+Mini-uzy==> G43 Scoped
+ak74u ==> Moisin Scoped
+p90 ==> Enfield Scoped

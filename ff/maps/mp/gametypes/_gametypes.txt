@@ -1,0 +1,9 @@
+dm
+dom
+sd
+sab
+war
+koth
+ctfb
+htf
+ctf
